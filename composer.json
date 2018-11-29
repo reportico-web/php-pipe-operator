@@ -1,5 +1,5 @@
 {
-    "name": "reportico/php-pipe-operator",
+    "name": "reportico/php-pipe-operator2",
     "type": "library",
     "description": "A (hopefully) temporary solution to implement the pipe operator in PHP.",
     "keywords": [
